@@ -1,0 +1,2 @@
+这是我自己编辑的
+var div1 = document.getElementById('div1')
